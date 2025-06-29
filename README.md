@@ -39,7 +39,8 @@ winget install cava
 ```
 - [Pipes-rs](https://github.com/lhvy/pipes-rs)<br/>
 ```
-winget install cava
+scoop bucket add extras
+scoop install pipes-rs
 ```
 - [rs-matrix](https://github.com/TitaniumBrain/rs-matrix)<br/>
 ```
